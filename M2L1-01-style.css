@@ -1,0 +1,39 @@
+/*
+    SELECTORES
+    * -> Aplica a todos los elementos
+    Etiqueta -> Aplica solo a la etiqueta html definida
+*/
+
+/* Aplica la regla a la Clase */
+.titulo {
+    color:darkgreen;
+}
+
+/* Aplica la regla a la Etiqueta */
+h2 {
+    color: darkorange;
+}
+
+p {
+    color:darkblue;
+}
+
+/* aplica  la regla a 2 selectores */
+h1, h2 {
+    background-color: darkgray;
+}
+
+/* Desendente elemento dentro de otro */
+li u {
+    color: brown;
+}
+
+/* Selector Classe */
+.parrafito {
+    background-color: darkcyan;
+}
+
+/* ID se aplica a un solo elemento */
+#parrafo5 {
+    color: red;
+}

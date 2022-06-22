@@ -1,0 +1,30 @@
+body {
+    color: #2A3132;
+    background-color: #ffe0ff;
+    font-family: Georgia, Cambria, serif;
+    font-size: 16px;
+}
+
+h1 {
+    font-family: 'Satisfy', cursive;
+    font-family: 'Syne Mono', monospace;
+    color: #ff69b4;
+    font-size: 32px;
+}
+
+h2 {
+    color: #ffa8d9;
+    font-family: Verdana, Calibri, sans-serif;
+    font-size: 22px;
+}
+
+span {
+    color: #c33b80;
+    font-size: 20px;
+}
+
+em span {
+    color: rgb(255, 255, 255);
+    background-color: #89004f;
+    font-size: 19px;
+}

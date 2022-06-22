@@ -1,2 +1,3 @@
-#mi primer proyecto Web
-Este es mi primer proyecto we para el curso desarrollador web.
+# Mi Primer Proyecto Web
+
+Este es mi primer proyecto para el curso de Desarrollador Web Jr.

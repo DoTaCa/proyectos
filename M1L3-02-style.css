@@ -1,0 +1,29 @@
+body {
+    background-color:rgb(240, 240, 240);
+}
+
+header {
+    background-color: white;
+}
+
+h2 {
+    color: dimgray;
+}
+
+img {
+    width: 200px;
+}
+
+#bloque2 {
+    background-color:lightseagreen;
+}
+
+section {
+    background-color: white;
+}
+
+footer {
+    align-content: center;
+    color: black;
+    background-color:rgb(240, 240, 240);
+}
